@@ -1,0 +1,190 @@
+<html>
+
+<head>
+
+<title>
+	
+	Food Review
+
+</title>
+
+</head>
+
+<style>
+	
+.header {
+	display: inline-flex;
+	width: 100%;
+	border: 1px solid darkturquoise;
+}
+
+.logo {
+	float: left;
+	width: 10%;
+	margin: 20px 30px;
+}
+
+.title {
+	width: 30%;
+	margin: -5px 50px;
+}
+
+.title h1 {
+	padding: 0 122px;
+	color: navy;
+	font-style: italic;
+}
+
+.social {
+	width: 30%;
+	margin: 0 62px;
+}
+
+.social img {
+	height: 50px;
+	float: none;
+	padding: 0 10px;
+	margin: 0 -10px;
+}
+
+.register {
+	width: 7%;
+}
+
+.register p {
+	border: 1px solid;
+	text-decoration: none;
+	
+}
+
+.register a {
+	text-decoration: none;
+}
+
+
+.nav {
+	width: 100%;
+	border: 1px solid darkturquoise;
+}
+
+.nav ul {
+	display: inline-flex;
+}
+
+.nav ul li {
+	list-style: none;
+	border: 1px solid aqua;
+	margin: 0 100px;
+}
+
+.nav ul li a {
+	text-decoration: none;
+	color: deeppink;
+}
+
+.content {
+	width: 100%;
+	border: 1px solid aqua;
+}
+
+.con {
+	width: 100%;
+	display: inline-flex;
+	margin-top: 66px;
+}
+
+.con img {
+	margin: 0 76px;
+}
+
+.con1 {
+	width: 100%;
+	display: inline-flex;
+	margin-top: 100px;
+	margin-bottom: 66px;
+}
+
+.con1 img {
+	margin: 0 72px;
+}
+
+.footer {
+	width: 100%;
+	border: 1px solid aqua;
+}
+
+.footer p {
+	margin: 20px 579px;
+}
+
+</style>
+
+
+<body>
+	
+<div class="header">
+	
+<div class="logo"><img src="review.png"></div>
+<div class="title"><h1>FOOD REVIEW</h1></div>
+<div class="social">
+			<a href="http://www.facebook.com"><img src="training_live_facebook.png" alt="post image" /></a>
+		
+		<a href="http://www.google.com"><img src="training_live_gplus.png" alt="post image" /></a>
+		
+		<a href="http://www.linkedin.com"><img src="training_live_linkedin-profile.png" alt="post image" /></a>
+		
+		<a href="http://www.twitter.com"><img src="training_live_twitt_profile.png" alt="post image" /></a>
+		</div>
+
+
+<div class="register"><a href="#"><p>Register</p></a>Or<a href="#"><p>Sign In</p></a></div>
+
+
+
+</div>
+
+<div class="nav">
+	
+	<ul>
+		
+		<li><a href="#">Home</a></li>
+		<li><a href="#">Menu</a></li>
+		<li><a href="#">Reviews</a></li>
+		<li><a href="#">Contract</a></li>
+		<li><a href="#">Address</a></li>
+
+	</ul>
+
+</div>
+
+<div class="content">
+
+<div class="con">
+	
+<img src="burger.jpg">
+<img src="pizza.jpg">
+<img src="pasta.jpg">
+
+</div>
+
+<div class="con1">
+	
+<img src="drinks.jpg">
+<img src="ndls.jpg">
+<img src="set menu.jpg">
+
+
+</div>
+
+</div>
+
+<div class="footer"><p>&copy; Copyright Food Review.</p></div>
+
+
+	
+	
+
+</body>
+
+
+</html>
